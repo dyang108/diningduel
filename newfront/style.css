@@ -1,0 +1,80 @@
+/* style.css */
+/*
+@media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+}
+*/
+/*
+#carm {
+    width: 40%;
+}
+
+#dewick {
+    width: 10%;
+}
+*/
+
+body {
+    background-color: #b3d9ff;
+}
+
+#carm {
+    background-image: none;
+    background-color: #8e5925;
+}
+
+#dewick {
+    background-image: none;
+    background-color: #417DC1; /* Tufts Blue */
+}
+
+.dining_hall {
+	border-bottom: 50px;
+	font-size: 50px;
+}
+
+.carmtitle {
+	background-color: #7878E5;
+}
+
+.dewicktitle {
+	background-color: #86E886;
+}
+
+.progress {
+	height: 100px;
+	border-radius: 50px;
+}
+
+.progress span {
+    /*color: #000000;*/
+    color: #333;
+    text-shadow:
+       -1px -1px 0 #ffffff,  
+        1px -1px 0 #ffffff,
+        -1px 1px 0 #ffffff,
+         1px 1px 0 #ffffff;
+    font-weight: bold;
+    font-size: 5em;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+    padding-top: 40px;
+    display: inline-block;
+}
+
+
+/*
+.carmitems {
+
+
+
+}
+
+.dewickitems {
+
+}
+*/
+/* http://jsfiddle.net/v4ySL/2/ */

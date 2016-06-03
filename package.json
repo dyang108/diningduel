@@ -1,0 +1,34 @@
+{
+  "name": "diningduel",
+  "version": "1.0.0",
+  "description": "A web app to compare Tufts dining halls",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.3.6",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "keygrip": "^1.0.1",
+    "mongodb": "^2.1.11",
+    "request": "^2.69.0",
+    "shortid": "^2.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuftsdev/comp20-s2016-team3.git"
+  },
+  "keywords": [
+    "tufts"
+  ],
+  "author": "Derick Yang, Elizabeth Lanzilla, Zach Zager, Tommy Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuftsdev/comp20-s2016-team3/issues"
+  },
+  "homepage": "https://github.com/tuftsdev/comp20-s2016-team3#readme"
+}

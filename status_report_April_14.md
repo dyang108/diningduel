@@ -1,0 +1,3 @@
+Backend: We have implemented the upvoting and downvoting functions serverside, and the functions for updating score after each upvote and downvote. We are working on assigning each user a unique ID through cookies to make sure that an user doesn't upvote the same food twice in the same meal, but it has proven to be difficult due to callback hell.
+
+Frontend: We added buttons and scores for each individual food item, and updated the CSS to have the voting UI overlaid on top of the image. We also added eventListeners. We have two separate design for the webpage right now, and we will work on combining those two designs.
